@@ -18,3 +18,21 @@ margin:40px;
 float:left;
  margin-top:5%;
 }
+
+.textcolor{
+	background-color : green;
+	color : red;
+	font-size : 250%;
+}
+
+   table.text  {
+    width:  100%; /* Ширина таблицы */
+    border-spacing: 0; /* Расстояние между ячейками */
+   }
+   table.text td {
+    width: 50%; /* Ширина ячеек */
+    vertical-align: top; /* Выравнивание по верхнему краю */
+   }
+   td.rightcol { /* Правая ячейка */ 
+    text-align: right; /* Выравнивание по правому краю */
+   }
